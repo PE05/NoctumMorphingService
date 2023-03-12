@@ -1,3 +1,0 @@
-:morph %user% Alpha-2
-
-; Submitted by Illumination
